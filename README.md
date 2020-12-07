@@ -1,7 +1,7 @@
 # Deep-Residual-Pooling-Texture-Recognition
 PyTorch implementation of Deep Residual Pooling Texture Recognition.
 
-![framework](/images/logo.png)
+![framework](/frame.png)
 
 ### Install
 The list of libraries you need to install are put in the requirements.txt.
