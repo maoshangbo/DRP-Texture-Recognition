@@ -26,7 +26,7 @@ If you have any questions about our work, please do not hesitate to contact us b
 author = {Shangbo Mao and Deepu Rajan and Chia Liang Tien},
 title = {{Deep Residual Pooling Network for Texture
 Recognition}},
-booktitle = {Pattern Recognition},
+booktitle = {--------},
 year = {2020}
 }
 ```
