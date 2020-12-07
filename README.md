@@ -21,3 +21,12 @@ Deep_residual_pooling_texture_multi-layer-finished.ipynb
 If you have any questions about our work, please do not hesitate to contact us by emails (sbmao@ntu.edu.sg).
 
 ### Citation
+```
+@article{DRP_Texture,
+author = {Shangbo Mao and Deepu Rajan and Chia Liang Tien},
+title = {{Deep Residual Pooling Network for Texture
+Recognition}},
+booktitle = {Pattern Recognition},
+year = {2020}
+}
+```
