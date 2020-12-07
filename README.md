@@ -1,5 +1,6 @@
 # Deep-Residual-Pooling-Texture-Recognition
-PyTorch implementation of Deep Residual Pooling Texture Recognition.
+PyTorch implementation of Deep Residual Pooling Network for Texture
+Recognition.
 
 <img src="/frame.png" width="700">
 
