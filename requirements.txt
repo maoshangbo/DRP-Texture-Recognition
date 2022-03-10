@@ -8,7 +8,7 @@ h5py==2.9.0
 imageio==2.6.0
 imagesize==1.1.0
 ipykernel==5.1.2
-ipython==7.8.0
+ipython==7.16.3
 json5==0.8.5
 jsonpatch==1.25
 jsonpointer==2.0
