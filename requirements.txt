@@ -17,7 +17,7 @@ jupyter==1.0.0
 jupyter-client==5.3.3
 jupyter-console==6.0.0
 jupyter-core==4.5.0
-jupyterlab==1.1.4
+jupyterlab==3.6.7
 libtiff==0.4.2
 lxml>=4.6.2
 Markdown==3.2.1
